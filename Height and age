@@ -1,0 +1,25 @@
+//simple C program 
+/*
+Name:Ian Hudson 
+Reg:CT100/G/26142/25
+Description of my profile 
+*/
+#include<stdio.h>
+
+//main function 
+int main(){
+
+int height;
+    printf("enter your height=");
+    scanf("%d",& height);
+    printf("your height is %d \n" ,height);
+int contact; 
+    printf("enter your contact=");
+    scanf("%d",& height);
+    printf("your height is %d \n" , height);
+int weight;
+    printf("enter your weight=");
+    scanf("%d", height);
+     printf("your height is %d \n", height);
+return 0;
+}
